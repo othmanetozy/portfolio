@@ -2,6 +2,6 @@ div{
     color: red;
 }
 
-header ul {
+header ul.flex {
     gap : 16px;
 }
