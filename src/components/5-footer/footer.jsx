@@ -1,12 +1,12 @@
 import React from "react"
 import './footer.css';
-const footer = () =>{
+const Footer = () =>{
     return(
         <div>
-            Hero   
+            Footer   
         </div>
     );
 }
 
 
-export default footer;
+export default Footer;

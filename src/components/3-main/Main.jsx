@@ -5,7 +5,7 @@ import './main.css';
 const Main = () =>{
     return(
         <div>
-            HEADER   
+            Main   
         </div>
     );
 }
